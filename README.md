@@ -1,8 +1,8 @@
 # Front-end Learning
-###Aprendendo Front-end
+### Aprendendo Front-end
 
 
-###JavaScript
+### JavaScript
 
 > - Variáveis
 > - Function
